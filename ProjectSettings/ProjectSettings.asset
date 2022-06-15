@@ -137,8 +137,6 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 0}
-  - {fileID: 7669567185357843231, guid: 8fd6f8550adf6de46b385890ba98d580, type: 2}
-  - {fileID: 4958173777092476437, guid: 59401511d03561e4988ba375f4a6933b, type: 2}
   - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -712,7 +710,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: MR-Subtitle
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: C:\Users\becneljj\Documents\GitHub\MRSubtitle\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: SFACS
   metroCertificateIssuer: SFACS
